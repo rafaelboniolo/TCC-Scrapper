@@ -1,4 +1,4 @@
-# Anomaly Recognize Server
+# Scrapper
 
 ### Script de download de imagens utilizado no Trabalho de Conclusão de Conclusão de Curso
 
